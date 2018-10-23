@@ -1,0 +1,3 @@
+To są dane zapisane teraz przez mój program: 
+To są dane zapisane teraz przez mój program!
+To są dane zapisane teraz przez mój program!
