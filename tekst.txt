@@ -1,3 +1,1 @@
-To są dane zapisane teraz przez mój program: 
-To są dane zapisane teraz przez mój program!
-To są dane zapisane teraz przez mój program!
+.git,cat.jpg,index.js,modules,node_modules,package-lock.json,package.json,README.md,tekst.txt,zadanie8.scss
